@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Impuesto de una factura de Monho M", "Impuesto de una factura de Monho M\Impuesto de una factura de Monho M.vcxproj", "{1FA55F4F-88C9-4C06-9B99-E8BE791D134D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FA55F4F-88C9-4C06-9B99-E8BE791D134D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1FA55F4F-88C9-4C06-9B99-E8BE791D134D}.Debug|Win32.Build.0 = Debug|Win32
+		{1FA55F4F-88C9-4C06-9B99-E8BE791D134D}.Release|Win32.ActiveCfg = Release|Win32
+		{1FA55F4F-88C9-4C06-9B99-E8BE791D134D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
