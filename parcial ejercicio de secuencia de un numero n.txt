@@ -1,0 +1,11 @@
+﻿'parcial.exe': Loaded 'C:\Users\Alumnos\Documents\Visual Studio 2010\Projects\parcial\Debug\parcial.exe', Symbols loaded.
+'parcial.exe': Loaded 'C:\Windows\SysWOW64\ntdll.dll', Cannot find or open the PDB file
+'parcial.exe': Loaded 'C:\Windows\SysWOW64\kernel32.dll', Cannot find or open the PDB file
+'parcial.exe': Loaded 'C:\Windows\SysWOW64\KernelBase.dll', Cannot find or open the PDB file
+'parcial.exe': Loaded 'C:\Windows\SysWOW64\msvcp100d.dll', Symbols loaded.
+'parcial.exe': Loaded 'C:\Windows\SysWOW64\msvcr100d.dll', Symbols loaded.
+The thread 'Win32 Thread' (0xbac) has exited with code 0 (0x0).
+The thread 'Win32 Thread' (0xa4c) has exited with code 0 (0x0).
+The thread 'Win32 Thread' (0xe94) has exited with code 0 (0x0).
+The thread 'Win32 Thread' (0x2cfc) has exited with code -1073741510 (0xc000013a).
+The program '[13604] parcial.exe: Native' has exited with code -1073741510 (0xc000013a).
